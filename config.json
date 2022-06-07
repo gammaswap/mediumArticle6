@@ -1,0 +1,7 @@
+{
+	"provider": "https://mainnet.infura.io/v3/YOUR_API_KEY",
+	"startDt": "2021-05-24T12:00:00Z",
+	"endDt": "2022-05-30T12:00:00Z",
+	"period": "days",
+	"fileName": "blocks.csv"
+}
